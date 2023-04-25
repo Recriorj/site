@@ -11,14 +11,14 @@ https://templatemo.com/tm-588-ebook-landing
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #E76F51;
-  --secondary-color:              #E9C46A;
+  --primary-color:                #8ce678;
+  --secondary-color:              #b7ff00;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #F4A261;
-  --custom-btn-bg-hover-color:    #E76F51;
+  --custom-btn-bg-color:          #8ce678;
+  --custom-btn-bg-hover-color:    #454b4487;
   --dark-color:                   #000000;
-  --p-color:                      #717275;
-  --link-hover-color:             #E76F51;
+  --p-color:                      #7172756a;
+  --link-hover-color:             #736b69;
 
   --body-font-family:             'Unbounded', sans-serif;
 
@@ -140,7 +140,7 @@ strong {
 }
 
 ::selection {
-  background-color: var(--secondary-color);
+  background-color: var(--secondary-colo);
   color: var(--white-color);
 }
 
@@ -598,7 +598,7 @@ strong {
   FEATURED              
 -----------------------------------------*/
 .featured-section {
-  background-color: var(--custom-btn-bg-color);
+  background-color: var(--custom-btn-bg-hover-color);
   position: relative;
   padding-top: 50px;
   padding-bottom: 50px;
